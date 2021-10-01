@@ -2,8 +2,11 @@
 <h3 align="center">A fresher undergrad student trying navigate college life😄</h3>
 
    ![](https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif)
-- 🌱 I’m currently learning **Python**
-<img src="https://img.icons8.com/ios/50/000000/developer--v2.png"/>
+- 🌱 *I’m currently learning **Python***
+             <img width="37px" src="https://img.icons8.com/ios/50/000000/developer--v2.png"/>
+
+- *I like reading books a lot lol* 
+             <img width="37px" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/64/000000/external-books-learning-flatart-icons-lineal-color-flatarticons.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/dg_2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dg_2103" height="30" width="40" /></a>
