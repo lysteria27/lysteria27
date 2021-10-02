@@ -20,7 +20,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&" alt="lysteria27" /></p>
+<br />
 
-<p align="center" /><img align="center" src="https://i.pinimg.com/originals/a2/a5/b6/a2a5b6b443b845f1e6512b350bb5ae03.gif" /></p>
+----
+
+<!-- <img align="left" alt="procheta1999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&hide_border=true&theme=radical" /> -->
+<br>
+<img align="left" width="250px"src="https://i.pinimg.com/originals/e9/50/9d/e9509ddcab0a9121660fa748b98b50e5.gif" /> 
+
+<p align="center"><img align="center" width="250px" src="https://i.pinimg.com/originals/a2/a5/b6/a2a5b6b443b845f1e6512b350bb5ae03.gif" /></p>
