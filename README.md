@@ -3,9 +3,8 @@
 
 <p align="center" /><img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></p>
 
-- *I’m currently learning **Python***
-             
-- *Love learning new stuff*
+- *I’m currently learning **Python***           
+- *Always up for knowing something new*
 - *I like reading books a lot lol and am into dark and chaotic academia*（￣︶￣) 
 
 ![](https://i.pinimg.com/originals/18/39/6f/18396fe0f169334c2cdabee9d797ca29.gif)
