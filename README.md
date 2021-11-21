@@ -25,7 +25,8 @@
 ----
 
 
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&show_icons=true&theme=nightowl" alt="lysteria27 stats" /></p>
 
 <!-- <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&hide_border=true&theme=radical" /> -->
 <br>
