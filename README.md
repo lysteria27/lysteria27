@@ -32,6 +32,6 @@
 <!-- <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&hide_border=true&theme=radical" /> -->
 <br>
 
-<img align="left" width="250px"src="https://i.pinimg.com/originals/e9/50/9d/e9509ddcab0a9121660fa748b98b50e5.gif" /> 
+<p align="center"><img align="left" width="250px"src="https://i.pinimg.com/originals/e9/50/9d/e9509ddcab0a9121660fa748b98b50e5.gif" /></p>
 
 <p align="center"><img align="center" width="250px" src="https://i.pinimg.com/originals/a2/a5/b6/a2a5b6b443b845f1e6512b350bb5ae03.gif" /></p>
