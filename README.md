@@ -26,8 +26,15 @@
 
 ----
 
-<!-- <img align="left" alt="procheta1999's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&hide_border=true&theme=radical" /> -->
+<!-- <img align="left" alt="" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&hide_border=true&theme=radical" /> -->
 <br>
+
+
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=procheta1999&theme=tokyonight" />
+</p>
 <img align="left" width="250px"src="https://i.pinimg.com/originals/e9/50/9d/e9509ddcab0a9121660fa748b98b50e5.gif" /> 
 
 <p align="center"><img align="center" width="250px" src="https://i.pinimg.com/originals/a2/a5/b6/a2a5b6b443b845f1e6512b350bb5ae03.gif" /></p>
