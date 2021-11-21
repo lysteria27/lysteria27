@@ -32,8 +32,8 @@
 
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=procheta1999&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=procheta1999&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lysteria27&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&theme=tokyonight" />
 </p>
 <img align="left" width="250px"src="https://i.pinimg.com/originals/e9/50/9d/e9509ddcab0a9121660fa748b98b50e5.gif" /> 
 
