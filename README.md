@@ -26,7 +26,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&show_icons=false&theme=nightowl" alt="lysteria27 stats" /></p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&theme=nightowl&" alt="lysteria27 stats" /></p>
 
 
 
