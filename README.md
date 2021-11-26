@@ -28,7 +28,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lysteria27&theme=nightowl&" alt="lysteria27 stats" /></p>
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lysteria27&theme=nightowl&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <p align="center">
