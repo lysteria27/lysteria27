@@ -1,5 +1,5 @@
 <h1 align="center">Hello human! I'm Deyasini Goswami(*^_^*)</h1>
-<h3 align="center">A fresher undergrad student trying navigate college life ^^;</h3>
+<h3 align="center">A fresher undergrad trying navigate college life ^^;</h3>
 
 <p align="center" /><img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></p>
 
