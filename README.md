@@ -1,10 +1,10 @@
 <h1 align="center">Hello human! I'm Deyasini Goswami(*^_^*)</h1>
-<h3 align="center">A fresher undergrad trying navigate college life ^^;</h3>
+<h3 align="center">A sophomore undergrad trying navigate college life ^^;</h3>
 
 <p align="center" /><img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></p>
 
-- *I’m currently learning **HTML, CSS, JS** and improving my Python knowledge with CS50AI* 
-- *Computer Science is basically the subject I'm most comfortable with*          
+- *I’m currently learning **HTML, CSS, JS** and improving my Python knowledge with CS50AI*
+- *I am interested in the field of Artificial Intelligence and Data Science.*          
 - *Always up for knowing something new*
 - *I like reading books a lot lol and am into dark and chaotic academia*（￣︶￣) 
 
