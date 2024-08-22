@@ -1,9 +1,9 @@
 <h1 align="center">Hello human! I'm Deyasini Goswami(*^_^*)</h1>
-<h3 align="center">A junior undergrad trying navigate college life ^^;</h3>
+<h3 align="center">A senior undergrad trying navigate college life ^^;</h3>
 
 <p align="center" /><img align="center" src="https://media.giphy.com/media/xT8qBsOjMOcdeGJIU8/giphy.gif" /></p>
 
-- *I’m currently learning **HTML, CSS, JS** and improving my Python knowledge with CS50AI*
+- *I’m currently learning **Exploratory Data Analysis** and improving my Pythin knowledge*
 - *I am interested in the field of Artificial Intelligence and Data Science.*          
 - *Always up for knowing something new*
 - *I like reading books a lot lol and am into dark and chaotic academia*（￣︶￣) 
